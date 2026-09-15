@@ -1,0 +1,14 @@
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge #2 - Guess It ThomasonC\bin\Debug\net10.0\Challenge #2 - Guess It ThomasonC.exe
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge #2 - Guess It ThomasonC\bin\Debug\net10.0\Challenge #2 - Guess It ThomasonC.deps.json
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge #2 - Guess It ThomasonC\bin\Debug\net10.0\Challenge #2 - Guess It ThomasonC.runtimeconfig.json
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge #2 - Guess It ThomasonC\bin\Debug\net10.0\Challenge #2 - Guess It ThomasonC.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge #2 - Guess It ThomasonC\bin\Debug\net10.0\Challenge #2 - Guess It ThomasonC.pdb
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge #2 - Guess It ThomasonC\obj\Debug\net10.0\Challenge #2 - Guess It ThomasonC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge #2 - Guess It ThomasonC\obj\Debug\net10.0\Challenge #2 - Guess It ThomasonC.AssemblyInfoInputs.cache
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge #2 - Guess It ThomasonC\obj\Debug\net10.0\Challenge #2 - Guess It ThomasonC.AssemblyInfo.cs
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge #2 - Guess It ThomasonC\obj\Debug\net10.0\Challenge #2 - Guess It ThomasonC.csproj.CoreCompileInputs.cache
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge #2 - Guess It ThomasonC\obj\Debug\net10.0\Challenge #2 - Guess It ThomasonC.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge #2 - Guess It ThomasonC\obj\Debug\net10.0\refint\Challenge #2 - Guess It ThomasonC.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge #2 - Guess It ThomasonC\obj\Debug\net10.0\Challenge #2 - Guess It ThomasonC.pdb
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge #2 - Guess It ThomasonC\obj\Debug\net10.0\Challenge #2 - Guess It ThomasonC.genruntimeconfig.cache
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge #2 - Guess It ThomasonC\obj\Debug\net10.0\ref\Challenge #2 - Guess It ThomasonC.dll

@@ -12,3 +12,4 @@ C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge #2 - Guess It Tho
 C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge #2 - Guess It ThomasonC\obj\Debug\net10.0\Challenge #2 - Guess It ThomasonC.pdb
 C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge #2 - Guess It ThomasonC\obj\Debug\net10.0\Challenge #2 - Guess It ThomasonC.genruntimeconfig.cache
 C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge #2 - Guess It ThomasonC\obj\Debug\net10.0\ref\Challenge #2 - Guess It ThomasonC.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Challenge #2 - Guess It ThomasonC\obj\Debug\net10.0\Challenge #2 - Guess It ThomasonC.sourcelink.json

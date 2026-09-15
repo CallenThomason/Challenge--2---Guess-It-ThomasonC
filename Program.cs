@@ -171,11 +171,11 @@ do
                 Console.Write("Please input a maximum: ");
                  string userMax = Console.ReadLine(); 
                 bool isMax = int.TryParse(userMax, out int max4);
-                while(isMin == false)
+                while(isMax == false || max4 < min4)
                 {
                     Console.Write("Invalid input. Input a number minimum:");
-                    userMin = Console.ReadLine();
-                     isMin = int.TryParse(userMin, out min4); 
+                    userMax = Console.ReadLine();
+                     isMax = int.TryParse(userMax, out max4); 
                 }//end of while 
 
 

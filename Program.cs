@@ -28,10 +28,11 @@ do
                 Console.WriteLine("You selected easy");
                 bool guessed = false;
                 isValid = true;
+                int count = 1; 
                 int min = 1;
                 int max = 11;
-                Console.WriteLine("Min: " + min);
-                Console.WriteLine("Max: " + max);
+                //Console.WriteLine("Min: " + min);
+                //Console.WriteLine("Max: " + max);
                 int randomNum = rnd.Next(min, max);
                 //Console.WriteLine(randomNum);
                 Console.Write("Please guess my number between 1 - 10: ");
@@ -49,17 +50,19 @@ do
 
                     if (newNum == randomNum)
                     {
-                        Console.Write("You guessed right!");
+                        Console.WriteLine($"You guessed right! It took {count} tries");
                         guessed = true;
                         break;
                     }//end if
                     else if (newNum > randomNum)
                     {
                         Console.Write("Your guess is too high");
+                        count++; 
                     }//end else if
                     else
                     {
                         Console.Write("Your guess is too low");
+                        count++; 
                     }//end else
                     Console.Write("Guess again: ");
                     userNum = Console.ReadLine();
@@ -72,10 +75,11 @@ do
                 Console.WriteLine("You selected Medium");
                 bool guessed1 = false;
                 isValid = true;
+                int count1 = 1; 
                 int min1 = 1;
                 int max1 = 50;
-                Console.WriteLine("Min1: " + min1);
-                Console.WriteLine("Max1: " + max1);
+                //Console.WriteLine("Min1: " + min1);
+                //Console.WriteLine("Max1: " + max1);
                 int randomNum1 = rnd.Next(min1, max1);
                 //Console.WriteLine(randomNum);
                 Console.Write("Please guess my number between 1 - 50: ");
@@ -93,17 +97,19 @@ do
 
                     if (newNum1 == randomNum1)
                     {
-                        Console.Write("You guessed right!");
+                        Console.WriteLine($"You guessed right! It took {count1} tries");
                         guessed1 = true;
                         break;
                     }//end if
                     else if (newNum1 > randomNum1)
                     {
                         Console.Write("Your guess is too high");
+                        count1++; 
                     }//end else if
                     else
                     {
                         Console.Write("Your guess is too low");
+                        count1++; 
                     }//end else
                     Console.Write("Guess again: ");
                     userNum1 = Console.ReadLine();
@@ -115,10 +121,11 @@ do
           Console.WriteLine("You selected Hard");
                 bool guessed3 = false;
                 isValid = true;
+                int count2 = 1; 
                 int min3 = 1;
                 int max3 = 100;
-                Console.WriteLine("Min1: " + min3);
-                Console.WriteLine("Max1: " + max3);
+                //Console.WriteLine("Min1: " + min3);
+                //Console.WriteLine("Max1: " + max3);
                 int randomNum3 = rnd.Next(min3, max3);
                 //Console.WriteLine(randomNum);
                 Console.Write("Please guess my number between 1 - 100: ");
@@ -136,17 +143,19 @@ do
 
                     if (newNum3 == randomNum3)
                     {
-                        Console.Write("You guessed right!");
+                        Console.WriteLine($"You guessed right! It took {count2} tries");
                         guessed3 = true;
                         break;
                     }//end if
                     else if (newNum3 > randomNum3)
                     {
                         Console.Write("Your guess is too high");
+                        count2++; 
                     }//end else if
                     else
                     {
                         Console.Write("Your guess is too low");
+                        count2++; 
                     }//end else
                     Console.Write("Guess again: ");
                     userNum3 = Console.ReadLine();
@@ -158,6 +167,7 @@ do
                 Console.WriteLine("You selected Custom");
                 bool guessed4 = false;
                 isValid = true;
+                int count3 = 1; 
                 //int min4;
                 //int max4;
                 Console.Write("Please input a minimum: ");
@@ -181,8 +191,8 @@ do
                 }//end of while 
 
 
-                Console.WriteLine("Min1: " + min4);
-                Console.WriteLine("Max1: " + max4);
+               // Console.WriteLine("Min1: " + min4);
+                //Console.WriteLine("Max1: " + max4);
                 int randomNum4 = rnd.Next(min4, max4);
                 //Console.WriteLine(randomNum);
                 Console.Write($"Please guess my number between {min4} - {max4}: ");
@@ -200,17 +210,19 @@ do
 
                     if (newNum4 == randomNum4)
                     {
-                        Console.Write("You guessed right!");
+                        Console.WriteLine($"You guessed right! It took {count3} tries");
                         guessed4 = true;
                         break;
                     }//end if
                     else if (newNum4 > randomNum4)
                     {
                         Console.Write("Your guess is too high");
+                        count3++; 
                     }//end else if
                     else
                     {
                         Console.Write("Your guess is too low");
+                        count3++; 
                     }//end else
                     Console.Write("Guess again: ");
                     userNum4 = Console.ReadLine();

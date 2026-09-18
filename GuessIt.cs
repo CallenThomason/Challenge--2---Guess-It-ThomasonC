@@ -14,7 +14,7 @@ public class GuessIt
     public void Difficulty(string answer)
     {
         Random rnd = new Random(); 
-        
+      success = false; 
         bool isValid = false; 
         while(!isValid){
         switch(answer){

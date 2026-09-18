@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Challenge #2 - Guess It ThomasonC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ced6f8ba4fafa357bb78e3dd96771995340396d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69f55878736e1ca98957c817dd0a7bc6e72f1c76")]
 [assembly: System.Reflection.AssemblyProductAttribute("Challenge #2 - Guess It ThomasonC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Challenge #2 - Guess It ThomasonC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

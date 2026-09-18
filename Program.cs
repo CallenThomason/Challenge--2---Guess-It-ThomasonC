@@ -1,6 +1,6 @@
 ﻿/*
 Callen Thomason
-9/16/2026
+9/18/2026
 Challenge #2 - Guess It
 I used a switch statement to select the difficulty. I then used do while loops and while loops for validation. 
 If statements to make comparisons of numerical values. 

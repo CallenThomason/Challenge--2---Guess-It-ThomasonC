@@ -18,6 +18,7 @@ GuessIt play = new GuessIt();
 do{
  Console.Write("Do you want to play Easy(A), Medium(B), Hard(C) or Custom(D): ");
 play.Difficulty(Console.ReadLine().ToUpper()); 
+int count = 0; 
 do{
         bool didConvert = play.MakeGuess(); 
        if(didConvert == false)
@@ -27,8 +28,9 @@ do{
         play.CheckGuess(); 
        
         
-
- }while(!play.success);   
+count++; 
+ }while(!play.success);  
+ Console.WriteLine($"It took you {count} tries to guess it right");  
 }while(GuessIt.PlayAgain()); 
 
 Console.WriteLine("Thank you for playing"); 

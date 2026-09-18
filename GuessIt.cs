@@ -1,5 +1,4 @@
-using System.ComponentModel.DataAnnotations;
-using System.Security.Cryptography.X509Certificates;
+
 
 public class GuessIt
 {
@@ -84,12 +83,12 @@ public bool isAllowed;
      public void CheckGuess()
     {
         if(isAllowed == true){
-        if (guess > secretNum && guess < max)
+        if (guess > secretNum && guess < max+1)
         {
             Console.WriteLine("Too High");
            // return false; 
         }
-        else if(guess < secretNum && guess > min)
+        else if(guess < secretNum && guess > min - 1)
         {
             Console.WriteLine("Too low");
            // return false; 
@@ -98,7 +97,7 @@ public bool isAllowed;
         {
             Console.WriteLine("Erorr: Input out of bounds"); 
         }
-        else 
+        else
         {
             Console.WriteLine("You got it!");
             success = true; 
